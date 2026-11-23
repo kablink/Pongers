@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://ygysc38f4chk"]
+
+[ext_resource type="Texture2D" uid="uid://bh2iy55cw3t3d" path="res://pong game assets/slider.png" id="1_npebx"]
+[ext_resource type="Script" uid="uid://clho3hdjks4tv" path="res://left_slider.gd" id="1_sp72u"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ubbkv"]
+size = Vector2(30.5, 122.625)
+
+[node name="left_slider" type="CharacterBody2D" unique_id=56639398]
+script = ExtResource("1_sp72u")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1703550724]
+position = Vector2(-0.9999994, 36)
+scale = Vector2(4.5625, 4.75)
+texture = ExtResource("1_npebx")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=535664984]
+position = Vector2(0, 37.3125)
+shape = SubResource("RectangleShape2D_ubbkv")
