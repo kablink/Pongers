@@ -5,7 +5,7 @@
 ### Priority: **MUST**
 
 ## User Story 2:
-#### As a player, I want the ball to bounce off the paddle and sides so that the game can hold a proper rally round.
+#### As a player, I want the ball to bounce off the paddle and sides so that the game can hold a proper rally.
 ### Priority: **MUST**
 
 ## User Story 3:
@@ -13,7 +13,7 @@
 ### Priority: **MUST**
 
 ## User Story 4:
-#### As a player, I want to to be able to view the scoreboard as the rounds progress so that I can keep track of mine and my opponent's stats.
+#### As a player, I want to to be able to view the scoreboard as the time progresses so that I can keep track of mine and my opponent's stats.
 ### Priority: **MUST**
 
 ## User Story 5:
@@ -21,7 +21,7 @@
 ### Priority: **SHOULD**
 
 ## User Story 6:
-#### As a player, I want the game to conclude after a few rounds so that we reach the end result and the game doesn't drag on.
+#### As a player, I want the game to conclude after the timer runs out so that we reach the end result and the game doesn't drag on.
 ### Priority: **MUST**
 
 ## User Story 7:
@@ -29,7 +29,7 @@
 ### Priority: **MUST**
 
 ## User Story 8:
-#### As a player, I want the ball to speed up as each round progresses so that there is an increased difficulty and challenge for the player to deal with.
+#### As a player, I want the ball to speed up as the game progresses so that there is an increased difficulty and challenge for the player to deal with.
 ### Priority: **SHOULD**
 
 ## User Story 9:
